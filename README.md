@@ -1,6 +1,6 @@
 # escribo_test
 
-A new Flutter project.
+Para testar basta instalar a APK enviada em um dispositivo Android ou copiar o código presente em './test/code_test.dart' para executar no https://dartpad.dev/
 
 ## Getting Started
 
